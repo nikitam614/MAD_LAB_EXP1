@@ -56,7 +56,7 @@ class HomePage extends StatelessWidget {
           onPressed: () {
             ScaffoldMessenger.of(context).showSnackBar(
               SnackBar(
-                content: Text('Hello Vaishnavi!!!'),
+                content: Text('Hello Nikita!!!'),
                 duration: Duration(seconds: 2),
               ),
             );
